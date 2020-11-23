@@ -2,9 +2,11 @@
 layout: post
 title:  참여 프로젝트 소개
 date:   2020-11-17 11:02:33 +0300
-description: hello
 ---
 
+참여 프로젝트 소개글입니다.   
+   
+   
 KoreaNewsCrawler  [Github](https://github.com/lumyjuwon/KoreaNewsCrawler)
 ================
    
