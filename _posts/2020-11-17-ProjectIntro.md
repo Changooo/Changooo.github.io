@@ -4,9 +4,9 @@ title:  참여 프로젝트 소개
 date:   2020-11-17 11:02:33 +0300
 ---
 
-KoreaNewsCrawler
+KoreaNewsCrawler  [Github](https://github.com/lumyjuwon/KoreaNewsCrawler)
 ================
-[Github](https://github.com/lumyjuwon/KoreaNewsCrawler)   
+   
    
 네이버 뉴스기사 크롤러(Python) 프로젝트 
 ----------------------------------------
