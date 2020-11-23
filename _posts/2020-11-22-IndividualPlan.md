@@ -37,5 +37,5 @@ Selenium 모듈을 이용한 parsing메소드에 변경된 ui 적용
 Readme에 변경된 method 내용 추가   
 Readme 영문 문서 작업   
 
-11/23 ~
+11/23 ~   
 정적페이지에 활동내역 정리
