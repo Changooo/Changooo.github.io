@@ -8,19 +8,19 @@ KoreaNewsCrawler  [Github](https://github.com/lumyjuwon/KoreaNewsCrawler)
 ================
    
    
-네이버 뉴스기사 크롤러(Python) 프로젝트 
-----------------------------------------
-Github Stars: 116
-Lisence: Apache-2.0 License
+# 네이버 뉴스기사 크롤러(Python) 프로젝트 
+<div style="text-align: right">Github Stars: 116    
+Lisence: Apache-2.0 License</div>
 <hr>   
 네이버에서 제공하는 뉴스기사를 분야별로 스크래핑하여 기사내용, 언론사, 작성된 날짜들의 정보를 가져오는 프로젝트입니다. Python이 사용됐습니다. Github에 해당 프로젝트의 소스가 공개되어있고, 커뮤니티가 활발히 진행중입니다.    
 
 
-## User Python Installation
+### User Python Installation
 * **KoreaNewsCrawler**
 
     ``` pip install KoreaNewsCrawler ```
-## Method
+    
+### Method
 * **set_category(category_name)**
   
  이 메서드는 수집하려고자 하는 카테고리는 설정하는 메서드입니다.  
@@ -37,9 +37,9 @@ Lisence: Apache-2.0 License
  이 메서드는 크롤링 실행 메서드입니다.
 
 
-## 참여방안  
+# 참여방안  
 
-# 코드 기여
+### 코드 기여
 1. 해당 Git repository를 fork/clone하여 프로젝트 관리
     + 지속적인 코드 리뷰 및 디버깅/업데이트를 pull request 하여 코드에 기여
     + 최근 네이버 기사 탭 UI의 변경으로 크롤러에 많은 업데이트가 필요할 것으로 예상
