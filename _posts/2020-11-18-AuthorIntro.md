@@ -5,8 +5,7 @@ date:   2020-11-18 12:01:10 +0300
 ---
 
 <center>
-Changoo Lee
-===========
+# Changoo Lee
 </center>  
 
 <center>cgl00@g.skku.edu | +8210-3011-5780 </center>   
